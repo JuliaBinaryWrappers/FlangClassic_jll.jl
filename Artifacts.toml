@@ -1,0 +1,9 @@
+[[FlangClassic]]
+arch = "x86_64"
+git-tree-sha1 = "1d248c52914cf4e3170423f0038b8b119d507193"
+libc = "musl"
+os = "linux"
+
+    [[FlangClassic.download]]
+    sha256 = "2071788c97274f098f100737843595620978ebfbd13515746d3b9ed94b926de6"
+    url = "https://github.com/JuliaBinaryWrappers/FlangClassic_jll.jl/releases/download/FlangClassic-v13.0.0+0/FlangClassic.v13.0.0.x86_64-linux-musl.tar.gz"
