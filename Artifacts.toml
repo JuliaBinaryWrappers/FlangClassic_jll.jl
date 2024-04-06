@@ -1,9 +1,9 @@
 [[FlangClassic]]
 arch = "x86_64"
-git-tree-sha1 = "0b0d9b75e4583ced1cdfff9325f79d14601cc371"
+git-tree-sha1 = "16cf531ceba66587b81809f25e6e1759888f0a35"
 libc = "musl"
 os = "linux"
 
     [[FlangClassic.download]]
-    sha256 = "b531b0aad9c41283aeb0933c7d7bd114b3a48a1d5272fd0b11f8a8073dce739a"
-    url = "https://github.com/JuliaBinaryWrappers/FlangClassic_jll.jl/releases/download/FlangClassic-v13.0.0+1/FlangClassic.v13.0.0.x86_64-linux-musl.tar.gz"
+    sha256 = "f067dd0c01f54fcc0cbd59f91b30cfd9e4bab0ddc1d78b902d4ab862e74c1e8c"
+    url = "https://github.com/JuliaBinaryWrappers/FlangClassic_jll.jl/releases/download/FlangClassic-v13.0.0+2/FlangClassic.v13.0.0.x86_64-linux-musl.tar.gz"
